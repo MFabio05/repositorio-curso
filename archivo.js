@@ -1,2 +1,2 @@
-console.log("Hola mundo que onda");
+console.log("Hola mundo que tal");
 console.log("Hello world");
